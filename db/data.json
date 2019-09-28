@@ -1,0 +1,30 @@
+{
+    "users": [
+        { 
+            "id": "user1",
+            "username" : "abx",
+            "name" : "hsd",
+            "email" : "abc@gmail.com"
+          },
+          { 
+              "id": "user2",
+            "username" : "manoj",
+            "name": "manoj1",
+            "email" : "manoj@gmail.com"
+          }
+    ],
+    "orders": [
+        { 
+            "id": "order1",
+            "orderId" : 1,
+            "orderName" : "laptop",
+            "email" : "abc@gmail.com"
+          },
+          { 
+              "id": "order2",
+            "orderId" : 2,
+            "orderName" : "bag",
+            "email" : "manoj@gmail.com"
+          }
+    ]
+}
